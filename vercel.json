@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+        { "source": "/api/data", "destination": "/api/data" },
+        { "source": "/api/claim", "destination": "/api/claim" },
+        { "source": "/api/shortlink", "destination": "/api/shortlink" },
+        { "source": "/api/payout", "destination": "/api/payout" },
+        { "source": "/(.*)", "destination": "/index.html" }
+    ]
+}

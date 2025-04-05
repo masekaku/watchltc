@@ -1,0 +1,10 @@
+/* Minimal CSS untuk memastikan tata letak */
+body {
+    min-height: 100vh;
+}
+.sticky-top {
+    top: 10px;
+}
+.ref {
+    margin-top: 10px;
+}
